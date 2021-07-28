@@ -1,0 +1,38 @@
+﻿  Main_prac11.cpp
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(308,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(310,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(316,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(318,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(325,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(327,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(333,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(335,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(421,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(875,27): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(885,27): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(906,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(916,19): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(936,23): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(946,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(968,17): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(969,16): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(981,17): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(982,16): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(983,17): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(984,16): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(994,17): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(995,16): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(996,17): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(997,16): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(1110,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(1111,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(1115,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(1116,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(1118,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\moren\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(1119,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(etc1_utils.obj)' or at 'C:\Users\moren\CompuGrafica\ProyFinal\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_DXT.obj)' or at 'C:\Users\moren\CompuGrafica\ProyFinal\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(image_helper.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_helper.obj)' or at 'C:\Users\moren\CompuGrafica\ProyFinal\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(SOIL2.obj)' or at 'C:\Users\moren\CompuGrafica\ProyFinal\Debug\soil2-debug.pdb'; linking object as if no debug info
+  ProyFinal.vcxproj -> C:\Users\moren\CompuGrafica\ProyFinal\Debug\ProyFinal.exe
